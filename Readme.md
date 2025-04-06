@@ -59,5 +59,7 @@ To interact with the bot, follow these steps:
 
 <img src="https://github.com/user-attachments/assets/ec3e15f0-26b5-4bc8-b0c8-6ea895d04a81" width="250">
 
+<img src="https://i.ibb.co/QjJGqpf6/IMG-20250406-WA0001.jpg" width="300">
+
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
