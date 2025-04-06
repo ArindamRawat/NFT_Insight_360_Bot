@@ -1,7 +1,7 @@
 # NFT Insight 360 Bot
 
 ## Overview
-NFT Insight 360 Bot is a Telegram bot designed to provide comprehensive analytics and insights into NFT collections using bitsCrunch API. It enables users to access metadata, scores, price predictions, anomalies, analytics trends, washtrade data, and more for various NFT collections on the Ethereum blockchain.
+NFT Insight 360 Bot is a Telegram bot that is hosted on AWS EC2 Instance designed to provide comprehensive analytics and insights into NFT collections using bitsCrunch API. It enables users to access metadata, scores, price predictions, anomalies, analytics trends, washtrade data, and more for various NFT collections on the Ethereum blockchain.
 
 ## Features
 - **Collection Metadata**: Retrieves detailed information about NFT collections.
