@@ -33,6 +33,8 @@ To interact with the bot, follow these steps:
 
 ## Images
 
+![WhatsApp Image 2025-04-06 at 11 37 09_b9c42f6b](https://github.com/user-attachments/assets/445280ff-c8ca-429e-995c-5ccc52faf133)
+
 <img src="https://github.com/user-attachments/assets/56e7fa63-80dd-40fc-adfd-595b848fbdde" width="250">
 
 <img src="https://github.com/user-attachments/assets/45694ade-8e17-450a-af11-fe84860a2e7d" width="250">
@@ -58,8 +60,6 @@ To interact with the bot, follow these steps:
 <img src="https://github.com/user-attachments/assets/0f1446c9-c4a1-49d7-a14d-9d36b1b0cac8" width="250">
 
 <img src="https://github.com/user-attachments/assets/ec3e15f0-26b5-4bc8-b0c8-6ea895d04a81" width="250">
-
-<img src="https://i.ibb.co/QjJGqpf6/IMG-20250406-WA0001.jpg" width="300">
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
